@@ -1,19 +1,3 @@
-# Leaderboard
-
-Here we can start saving the scores of the validation data as we go:
-
-| Method | MSE | Rel error [%] | Commit link |  Comments |
-|--------|-----   |-----------|-------------|---|
-| RF     | 48452 | 13.19     |[commit47](https://github.com/PGEHackathon/The_Roaring_Kitties/commit/92517c3d16c3594952d227d0ff1c729a6580c39d)              |only sandstone, shaly sandstone and WOC feaatures   |
-| RF     | 56833 | 11.63     |[commit48](https://github.com/PGEHackathon/The_Roaring_Kitties/commit/c9b2ab143db8f2d91f8d93223cf2c8e19faabffe)              |sandstone, shaly sandstone, WOC and dist_frac feaatures   |
-| XGBoost     | 34074 | 12.88     |[commit48](https://github.com/PGEHackathon/The_Roaring_Kitties/commit/c9b2ab143db8f2d91f8d93223cf2c8e19faabffe)              |sandstone, shaly sandstone, WOC and dist_frac feaatures   |
-| Ridge     | 34000 | 14.30     |[commit48](https://github.com/PGEHackathon/The_Roaring_Kitties/commit/c9b2ab143db8f2d91f8d93223cf2c8e19faabffe)              |sandstone, shaly sandstone, WOC and dist_frac feaatures   |
-|   ToyNet   |  13000 | 7.1     |    [commit1](https://github.com/PGEHackathon/The_Roaring_Kitties/commit/d8fdac864ff247a200fb64208900bbf3b9fdcfc9)        |   Selected the first 4 features (just beacause) |
-|   BiggerToyNet   | 14000 |  5.6    |  [commit50](https://github.com/PGEHackathon/The_Roaring_Kitties/commit/d381e95d5f2f8236700cc5c2266937e703e36803)           |    |
-|   BiggestToyNet   | 7208 |    6.8  |            |   (Not recommended for public consumption) |
-
-
-
 # Energy A.I. Hackathon 2021
 
 ## Hosts: [Prof. Michael Pyrcz](https://twitter.com/GeostatsGuy) and [Prof. John Foster](https://twitter.com/johntfoster)
