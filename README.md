@@ -1,4 +1,16 @@
 # Energy A.I. Hackathon 2021
+___
+
+![til](https://github.com/rlarao/Energy-AI-Hackathon-2021/blob/c77d18eb74545c4ca3774421e87e79ae0e039f03/images/roaring_kitty_white.gif)
+
+
+## Team members
+### [Sercan Gul](https://www.linkedin.com/in/sercangul/), sercangul@utexas.edu
+### Ricardo Lara, rlara@utexas.edu
+### Chris Lawson, lawsonsirhc@gmail.com
+### Adi Ojha, adiojha629@utexas.edu
+### Javier Santos, javierestradasantos@gmail.com
+
 
 ## Hosts: [Prof. Michael Pyrcz](https://twitter.com/GeostatsGuy) and [Prof. John Foster](https://twitter.com/johntfoster)
 
